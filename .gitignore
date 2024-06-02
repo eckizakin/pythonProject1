@@ -1,0 +1,10 @@
+.vs/*
+.vscode/*
+.venv/*
+env/*
+*.xml
+*.zip
+*.json
+*.csv
+*.pyc
+__pycache__/
